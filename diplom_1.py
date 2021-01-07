@@ -1,3 +1,4 @@
+#поиск ведется на основе границ кенни 
 import numpy as np
 import cv2 as cv
 import tkinter.filedialog as fd
